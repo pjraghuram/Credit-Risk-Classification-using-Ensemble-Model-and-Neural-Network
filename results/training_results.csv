@@ -1,0 +1,8 @@
+Model,Accuracy
+MLP,0.76
+Ensemble,0.7555555555555555
+Neural Network,0.7555555555555555
+Naive Bayes,0.6666666666666666
+Logistic Regression,0.6088888888888889
+SVM,0.6
+KNN,0.56

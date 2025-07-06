@@ -1,0 +1,15 @@
+
+data/processed/
+
+# Model files (large binary files)
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Results and outputs
+results/figures/
+results/temp/
+
+# Logs
+logs/
+*.log
